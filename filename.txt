@@ -1,0 +1,2 @@
+Dane katalogu:
+cat.jpg,filename.txt,index.js,node_modules,package.json
